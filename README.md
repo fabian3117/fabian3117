@@ -7,6 +7,43 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+```json
+{
+  "Nombre": "Federico Nahuel Fabian",
+  "Apellido":"Gonzalez",
+  "Correo":"fabian3117@frba.utn.edu.ar",
+"Estudios":  {
+    "Ingenieria electronica UTN FRBA":"3 año",
+    "Ingenieria en sistemas UTN FRBA":"4 año", 
+    "Tecnico electromecanico":"Egresado",
+    "Programador Full stack":"Completo"
+},
+"Experiencia Laboral":  {
+    "Programador Full Stack"     :  "Ministerio de educacion GCBA 22/06 - 2023/11",
+    "Encargado de barra y Atencion al publico":"Posada del rey 2021-2022",
+    "Tecnico particular"         :  "Reparador PC - Smarphone",
+    "Manejo de servidores Unix"  :  "Red hat"
+  },
+"Tecnologias Alto Nivel":  {
+    "Java","JavaScript","C#","PHP","React","NodeJs","Kotlin","Android","Git Actions","Docker"
+},
+"Framework":{
+    ".Net","Springboot","MCUexpress","Android studio","NodeJs"
+}
+"Tecnologias Bajo Nivel":{
+      "C/C++/C#","Assembler","Cobol","VHDL"
+  },
+"Tecnologias Cloud":{
+      "AWS","Google Cloud","Firebase"
+  },
+"Idiomas":{
+      "Portugues"  :  "Intermedio",
+      "Ingles"     :  "Basico"
+  }
+}
+```
+
+
 🌱 ⚡Programador Back-End
 - Java
 - Php
