@@ -13,10 +13,10 @@
   "Apellido":"Gonzalez",
   "Correo":"fabian3117@frba.utn.edu.ar",
 "Estudios":  {
-    "Ingenieria electronica UTN FRBA":"3 año",
-    "Ingenieria en sistemas UTN FRBA":"4 año", 
-    "Tecnico electromecanico":"Egresado",
-    "Programador Full stack":"Completo"
+    "Ingenieria electronica UTN FRBA"  :  "3 año",
+    "Ingenieria en sistemas UTN FRBA"  :  "4 año", 
+    "Tecnico electromecanico"          :  "Egresado",
+    "Programador Full stack"           :  "Completo"
 },
 "Experiencia Laboral":  {
     "Programador Full Stack"     :  "Ministerio de educacion GCBA 22/06 - 2023/11",
@@ -34,12 +34,15 @@
       "C/C++/C#","Assembler","Cobol","VHDL"
   },
 "Tecnologias Cloud":{
-      "AWS","Google Cloud","Firebase"
+      "AWS","Google Cloud","Firebase","Server Linux"
   },
 "Idiomas":{
       "Portugues"  :  "Intermedio",
       "Ingles"     :  "Basico"
-  }
+  },
+"Bases de datos":{
+    "MySQL","MongoDB","Postgres","Firestore"
+}
 }
 ```
 
